@@ -1,8 +1,8 @@
-# On-Board: Online Whiteboard Application
+# Chalk-Board: Online Whiteboard Application
 
 ## Overview
 
-On-Board is a versatile, free-to-use online whiteboard application designed for creativity, collaboration, and productivity. It provides an intuitive platform for users to draw, write, and share ideas in real-time, regardless of their device or operating system.
+Chalk-Board is a versatile, free-to-use online whiteboard application designed for creativity, collaboration, and productivity. It provides an intuitive platform for users to draw, write, and share ideas in real-time, regardless of their device or operating system.
 
 ## Features
 
@@ -20,7 +20,7 @@ On-Board is a versatile, free-to-use online whiteboard application designed for 
 
 ## Getting Started
 
-To run On-Board:
+To run Chalk-Board:
 
 1. **Clone the Repository**:
 
